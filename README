@@ -1,0 +1,21 @@
+# Animacion Juventud
+         ---                                      ---
+
+                    made by
+                    Dahngeek
+
+                    
+                based on   obsidian by xplsv
+         ---                                      ---
+         ---                                      ---
+
+                      code: mrdoob x three.js
+
+        
+         Requirements:
+
+            Any browser with WebGL support.
+
+            Also runs on Chrome for Android but
+            it runs at about 2fps on a Galaxy Nexus.
+            I may try to optimise a few things.
